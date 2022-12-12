@@ -5,8 +5,8 @@ Fazer um programa para ler os dados de um produto em um estoque (nome, preço e 
 i) Mostrar os dados do produto (nome, preço, quantidade no estoque, valor total no estoque);
 
 ii) Realizar uma entrada no estoque e mostrar novamente os dados do produto; e
-
 iii) Realizar uma saída no stoque e mostrar novamente os dados do produto.
+
 **Exemplo**: 
 Enter product data:
 Name: **TV**
