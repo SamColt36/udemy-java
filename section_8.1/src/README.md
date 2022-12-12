@@ -9,8 +9,11 @@ iii) Realizar uma saída no stoque e mostrar novamente os dados do produto.
 
 **Exemplo**: 
 Enter product data:
+
 Name: **TV**
+
 Price: **900.00**
+
 Quantity in stock: **10**
 
 Product data: TV, $ 900.00, 10 units, Total: $ 9000.00
