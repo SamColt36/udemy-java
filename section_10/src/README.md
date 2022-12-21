@@ -3,19 +3,19 @@
 ####  Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/negativos.java
 
 Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos.
-
+ <br>
 **Exemplo**: 
-Quantos numeros voce vai digitar? **6** 
-Digite um numero: **8** 
-Digite um numero: **-2** 
-Digite um numero: **9** 
-Digite um numero: **10** 
-Digite um numero: **-3** 
-Digite um numero: **-7** 
-NUMEROS NEGATIVOS: 
--2 
--3 
--7
+Quantos numeros voce vai digitar? **6**  <br>
+Digite um numero: **8** <br>
+Digite um numero: **-2**  <br>
+Digite um numero: **9**  <br>
+Digite um numero: **10**  <br>
+Digite um numero: **-3**  <br>
+Digite um numero: **-7**  <br>
+NUMEROS NEGATIVOS:  <br>
+-2  <br>
+-3  <br>
+-7 <br>
 
 # Exercício 02 - Problema "soma_vetor"
 ####  Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/soma_vetor.java
