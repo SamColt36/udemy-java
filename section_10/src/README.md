@@ -15,24 +15,24 @@ Digite um numero: **-7**  <br>
 NUMEROS NEGATIVOS:  <br>
 -2  <br>
 -3  <br>
--7 <br>
+-7  <br>
 
 # Exercício 02 - Problema "soma_vetor"
 ####  Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/soma_vetor.java
 
-Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida: 
-> - Imprimir todos os elementos do vetor 
-> - Mostrar na tela a soma e a média dos elementos do vetor.
-
+Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida:  <br>
+> - Imprimir todos os elementos do vetor  <br>
+> - Mostrar na tela a soma e a média dos elementos do vetor. <br>
+ <br>
 **Exemplo**: 
-Quantos numeros voce vai digitar? **4** 
-Digite um numero: **8.0**
-Digite um numero: **4.0** 
-Digite um numero: **10.0**
-Digite um numero: **14.0** 
-VALORES = 8.0 4.0 10.0 14.0 
-SOMA = 36.00 
-MEDIA = 9.00
+Quantos numeros voce vai digitar? **4**  <br>
+Digite um numero: **8.0** <br>
+Digite um numero: **4.0**  <br>
+Digite um numero: **10.0** <br>
+Digite um numero: **14.0**  <br>
+VALORES = 8.0 4.0 10.0 14.0  <br>
+SOMA = 36.00  <br>
+MEDIA = 9.00 <br>
 
 # Exercício 03 - Problema "alturas"
 ####  Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/alturas.java
