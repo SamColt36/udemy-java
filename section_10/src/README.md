@@ -82,8 +82,8 @@ Digite um numero: **14**
 Digite um numero: **13** 
 Digite um numero: **20** 
 
-NUMEROS PARES: 
-8 2 14 20 
+NUMEROS PARES:
+8 2 14 20
 
 QUANTIDADE DE PARES = 4
 
@@ -94,15 +94,15 @@ QUANTIDADE DE PARES = 4
 Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida, mostrar na tela o maior número do vetor (supor não haver empates). Mostrar também a posição do maior elemento, considerando a primeira posição como 0 (zero).
 
 **Exemplo**: 
-Quantos numeros voce vai digitar? **6** 
-Digite um numero: **8.0** 
-Digite um numero: **4.0** 
-Digite um numero: **10.0** 
-Digite um numero: **14.0** 
-Digite um numero: **13.0** 
-Digite um numero: **7.0** 
+Quantos numeros voce vai digitar? **6**
+Digite um numero: **8.0**
+Digite um numero: **4.0**
+Digite um numero: **10.0**
+Digite um numero: **14.0**
+Digite um numero: **13.0**
+Digite um numero: **7.0**
 
-MAIOR VALOR = 14.0 
+MAIOR VALOR = 14.0
 POSICAO DO MAIOR VALOR = 3
 
 # Exercício 06 - Problema "soma_vetores"
@@ -111,28 +111,28 @@ POSICAO DO MAIOR VALOR = 3
 
 Faça um programa para ler dois vetores A e B, contendo N elementos cada. Em seguida, gere um terceiro vetor C onde cada elemento de C é a soma dos elementos correspondentes de A e B. Imprima o vetor C gerado.
 
-**Exemplo**: 
-Quantos valores vai ter cada vetor? 6 
-Digite os valores do vetor A: 
-**8 
-2 
-11 
-14 
-13 
-20** 
-Digite os valores do vetor B: 
-**5 
-10 
-3 
-1 
-10 
-7** 
-VETOR RESULTANTE: 
-13 
-12 
-14 
-15 
-23 
+**Exemplo**:
+Quantos valores vai ter cada vetor? 6
+Digite os valores do vetor A:
+**8
+2
+11
+14
+13
+20**
+Digite os valores do vetor B:
+**5
+10
+3
+1
+10
+7**
+VETOR RESULTANTE:
+13
+12
+14
+15
+23
 27
 
 # Exercício 07 - Problema "abaixo_da_media"
@@ -142,15 +142,15 @@ VETOR RESULTANTE:
 Fazer um programa para ler um número inteiro N e depois um vetor de N números reais. Em seguida, mostrar na tela a média aritmética de todos elementos com três casas decimais. Depois mostrar todos os elementos do vetor que estejam abaixo da média, com uma casa decimal cada.
 
 **Exemplo**: 
-Quantos elementos vai ter o vetor? **4** 
-Digite um numero: **10.0** 
-Digite um numero: **15.5** 
-Digite um numero: **13.2** 
-Digite um numero: **9.8** 
+Quantos elementos vai ter o vetor? **4**
+Digite um numero: **10.0**
+Digite um numero: **15.5**
+Digite um numero: **13.2**
+Digite um numero: **9.8**
 
 MEDIA DO VETOR = 12.125
-ELEMENTOS ABAIXO DA MEDIA: 
-10.0 
+ELEMENTOS ABAIXO DA MEDIA:
+10.0
 9.8
 
 # Exercício 08 - Problema "media_pares"
@@ -160,20 +160,20 @@ ELEMENTOS ABAIXO DA MEDIA:
 Fazer um programa para ler um vetor de N números inteiros. Em seguida, mostrar na tela a média aritmética somente dos números pares lidos, com uma casa decimal. Se nenhum número par for digitado, mostrar a mensagem "NENHUM NUMERO PAR"
 
 **Exemplo 1**: 
-Quantos elementos vai ter o vetor? 6 
-Digite um numero: **8** 
-Digite um numero: **2** 
-Digite um numero: **11** 
-Digite um numero: **14** 
-Digite um numero: **13** 
-Digite um numero: **20** 
+Quantos elementos vai ter o vetor? **6**
+Digite um numero: **8**
+Digite um numero: **2**
+Digite um numero: **11**
+Digite um numero: **14**
+Digite um numero: **13**
+Digite um numero: **20**
 MEDIA DOS PARES = 11.0
 
-**Exemplo 2**: 
-Quantos elementos vai ter o vetor? **3** 
-Digite um numero: **7** 
-Digite um numero: **9** 
-Digite um numero: **11** 
+**Exemplo 2**:
+Quantos elementos vai ter o vetor? **3**
+Digite um numero: **7**
+Digite um numero: **9**
+Digite um numero: **11**
 NENHUM NUMERO PAR
 
 # Exercício 09 - Problema "mais_velho"
