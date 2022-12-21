@@ -3,36 +3,36 @@
 ####  Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/negativos.java
 
 Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos.
- <br>
+
 **Exemplo**: 
-Quantos numeros voce vai digitar? **6**  <br>
-Digite um numero: **8** <br>
-Digite um numero: **-2**  <br>
-Digite um numero: **9**  <br>
-Digite um numero: **10**  <br>
-Digite um numero: **-3**  <br>
-Digite um numero: **-7**  <br>
-NUMEROS NEGATIVOS:  <br>
--2  <br>
--3  <br>
--7  <br>
+Quantos numeros voce vai digitar? **6** 
+Digite um numero: **8** 
+Digite um numero: **-2** 
+Digite um numero: **9** 
+Digite um numero: **10** 
+Digite um numero: **-3** 
+Digite um numero: **-7** 
+NUMEROS NEGATIVOS: 
+-2 
+-3 
+-7
 
 # Exercício 02 - Problema "soma_vetor"
 ####  Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/soma_vetor.java
 
-Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida:  <br>
-> - Imprimir todos os elementos do vetor  <br>
-> - Mostrar na tela a soma e a média dos elementos do vetor. <br>
- <br>
+Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida: 
+> - Imprimir todos os elementos do vetor 
+> - Mostrar na tela a soma e a média dos elementos do vetor.
+
 **Exemplo**: 
-Quantos numeros voce vai digitar? **4**  <br>
-Digite um numero: **8.0** <br>
-Digite um numero: **4.0**  <br>
-Digite um numero: **10.0** <br>
-Digite um numero: **14.0**  <br>
-VALORES = 8.0 4.0 10.0 14.0  <br>
-SOMA = 36.00  <br>
-MEDIA = 9.00 <br>
+Quantos numeros voce vai digitar? **4** 
+Digite um numero: **8.0**
+Digite um numero: **4.0** 
+Digite um numero: **10.0**
+Digite um numero: **14.0** 
+VALORES = 8.0 4.0 10.0 14.0 
+SOMA = 36.00 
+MEDIA = 9.00
 
 # Exercício 03 - Problema "alturas"
 ####  Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/alturas.java
@@ -238,8 +238,7 @@ Teresa Pires
 Tem-se um conjunto de dados contendo a altura e o gênero (M, F) de N pessoas. Fazer um programa que calcule e escreva a maior e a menor altura do grupo, a média de altura das mulheres, e o número de homens.
 
 **Exemplo**: 
-Quantas pessoas serao digitadas? 5 
-Altura da 1a pessoa: **1.70** 
+Quantas pessoas serao digitadas? **5**<br>Altura da 1a pessoa: **1.70** 
 Genero da 1a pessoa:  **F**
 Altura da 2a pessoa: **1.83** 
 Genero da 2a pessoa: **M** 
