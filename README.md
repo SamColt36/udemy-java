@@ -1,7 +1,7 @@
 
-# CURSO JAVA & POO - UDEMY
+# 🔥 CURSO JAVA & POO - UDEMY
 
-Algoritmos e outas atividades desenvolvidas em Java, utilizando a IDE Eclipse. 
+Algoritmos e outas atividades desenvolvidas em Java, utilizando a IDE **Eclipse**. 
 ## VERSÕES
 
 Java:
