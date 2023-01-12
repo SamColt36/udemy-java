@@ -21,7 +21,7 @@ NUMEROS NEGATIVOS:
 -3   
 -7   
 
-# Exercício 02 - Problema "soma_vetor"   
+# 📖🔥 Exercício 02 - Problema "soma_vetor"   
 
 #### Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/soma_vetor.java
 
@@ -41,7 +41,7 @@ VALORES = 8.0 4.0 10.0 14.0
 SOMA = 36.00   
 MEDIA = 9.00   
 
-# Exercício 03 - Problema "alturas"
+# 📖🔥 Exercício 03 - Problema "alturas"
 
 #### Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/alturas.java
 
@@ -75,7 +75,7 @@ Teresa
 
   
 
-# Exercício 04 - Problema "numeros_pares"
+# 📖🔥 Exercício 04 - Problema "numeros_pares"
 
 #### Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/numeros_pares.java
 
@@ -94,7 +94,7 @@ NUMEROS PARES:
 8 2 14 20   
 QUANTIDADE DE PARES = 4   
 
-# Exercício 05 - Problema "maior_posicao"
+# 📖🔥 Exercício 05 - Problema "maior_posicao"
 
 #### Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/maior_posicao.java
 
@@ -116,7 +116,7 @@ POSICAO DO MAIOR VALOR = 3
 
   
 
-# Exercício 06 - Problema "soma_vetores"
+# 📖🔥 Exercício 06 - Problema "soma_vetores"
 
 #### Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/soma_vetores.java
 
@@ -152,7 +152,7 @@ VETOR RESULTANTE:
 23   
 27   
 
-# Exercício 07 - Problema "abaixo_da_media"
+# 📖🔥 Exercício 07 - Problema "abaixo_da_media"
 
 #### Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/abaixo_da_media.java
 
@@ -169,7 +169,7 @@ ELEMENTOS ABAIXO DA MEDIA:
 10.0   
 9.8   
   
-# Exercício 08 - Problema "media_pares"
+# 📖🔥 Exercício 08 - Problema "media_pares"
 
 #### Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/media_pares.java
 
@@ -192,7 +192,7 @@ Digite um numero: **9**
 Digite um numero: **11**   
 NENHUM NUMERO PAR   
 
-# Exercício 09 - Problema "mais_velho"
+# 📖🔥 Exercício 09 - Problema "mais_velho"
 
 #### Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/mais_velho.java 
 
@@ -217,7 +217,7 @@ Nome: **Paulo**
 Idade: **17**   
 PESSOA MAIS VELHA: Carlos   
 
-# Exercício 10 - Problema "aprovados"
+# 📖🔥 Exercício 10 - Problema "aprovados"
 
 #### Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/aprovados.java
 
@@ -246,7 +246,7 @@ Joao Silva Maria
 Teixeira   
 Teresa Pires   
 
-# Exercício 11 - Problema "dados_pessoas"
+# 📖🔥 Exercício 11 - Problema "dados_pessoas"
 
 #### Correção: https://github.com/acenelio/curso-algoritmos/blob/master/java/dados_pessoas.java
 
