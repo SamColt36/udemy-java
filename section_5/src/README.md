@@ -1,6 +1,7 @@
 # 📖 Exercício 01
 #### Correção: https://github.com/acenelio/nivelamento-java/blob/master/src/cond01.java 
-Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.     
+Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.    
+ 
 **Exemplos**:      
 Entrada: ** -10 **     
 Saída:     
@@ -15,8 +16,9 @@ Saída:
 NAO NEGATIVO      
 # 📖 Exercício 02 
 #### Correção: https://github.com/acenelio/nivelamento-java/blob/master/src/cond02.java 
-Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar. 
-**Exemplos**: 
+Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.       
+
+**Exemplos**:      
 Entrada: **12**     
 Saída:      
 PAR      
@@ -30,7 +32,8 @@ Saída:
 PAR      
 # 📖 Exercício 03 
 #### Correção: https://github.com/acenelio/nivelamento-java/blob/master/src/uri1044.java 
-Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos", indicando se os valores lidos são múltiplos entre si. Atenção: os números devem poder ser digitados em ordem crescente ou decrescente.      
+Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos", indicando se os valores lidos são múltiplos entre si. Atenção: os números devem poder ser digitados em ordem crescente ou decrescente.   
+   
 **Exemplos**:       
 Entrada: **6 24**          
 Saída:       
@@ -45,7 +48,8 @@ Saída:
 Sao Multiplos       
 # 📖 Exercício 04 
 #### Correção: https://github.com/acenelio/nivelamento-java/blob/master/src/uri1046.java 
-Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.       
+Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.     
+ 
 **Exemplos**:        
 Entrada: **16 2 **       
 Saída:        
@@ -60,7 +64,8 @@ Saída:
 O JOGO DUROU 14 HORA(S)       
 # 📖 Exercício 05 
 #### Correção: https://github.com/acenelio/nivelamento-java/blob/master/src/uri1038.java 
-Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.        
+Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.     
+   
 **Exemplos**:            
 Entrada:  **3 2**    
 Saída:     
