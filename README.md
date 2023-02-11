@@ -1,9 +1,8 @@
 
 
 # 🔥 CURSO JAVA & POO - UDEMY
-<p align="center">
-  <img src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47fbrc5g58dxb1jus5end1i0smqttsjdl0t8odz2hs&rid=giphy.gif&ct=g">
-</p>
+
+![](https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47fbrc5g58dxb1jus5end1i0smqttsjdl0t8odz2hs&rid=giphy.gif&ct=g)
 Algoritmos e outas atividades desenvolvidas em Java, utilizando a IDE **Eclipse**. 
 ## VERSÕES
 
