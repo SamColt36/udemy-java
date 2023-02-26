@@ -1,1 +1,0 @@
-Esse é um arquivo para testar se a sincronização entre o diretório local e o remoto.
