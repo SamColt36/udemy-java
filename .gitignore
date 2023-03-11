@@ -1,15 +1,16 @@
-**/target/
-/target/
-/bin/
-*/target/*
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
 .classpath
 .project
-.settings
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-*.iml
-*.idea
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
